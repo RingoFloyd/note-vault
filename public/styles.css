@@ -1,10 +1,13 @@
 body {
-  background-color: #d4ecdd;
+  background-color: #323232;
   margin: 0;
 }
 
 header {
-  background-color: #345b63;
+  background-color: #0d7377;
   padding: 1rem 0 1rem 0.5rem;
-  color: #d4ecdd;
+}
+
+note {
+  background-color: #14ffec;
 }
