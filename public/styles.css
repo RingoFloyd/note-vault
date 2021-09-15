@@ -4,10 +4,16 @@ body {
 }
 
 header {
+  font-family: "Patrick Hand SC", cursive;
   background-color: #0d7377;
   padding: 1rem 0 1rem 0.5rem;
 }
 
-note {
+.note {
+  font-family: "Patrick Hand SC", cursive;
   background-color: #14ffec;
+}
+
+footer {
+  font-family: "Patrick Hand SC", cursive;
 }
